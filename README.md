@@ -13,4 +13,5 @@ my own os
 void read_sector(short start_sector, char read_sector_count);
 
 for (int i = 0; i < ROOT_DIR_SECTORS_COUNT; i++) {
+
 }
